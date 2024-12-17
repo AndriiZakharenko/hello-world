@@ -1,18 +1,16 @@
 # Hello world
 
-Added the basic page markup and the text `Hello, world!` into the body.
+## Stack
 
+- HTML (BEM)
 
-## Tests
+## Tools
 
-Installed all the required VSCode extensions:
-
-- ESLint (last version)
-- EditorConfig (last version)
-- StyleLint (last version)
-- LintHTML (last version)
-
+- ESlint
+- Prettier
+- Jest
+- Parcel
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/layout_hello-world/)
+- [Demo](https://AndriiZakharenko.github.io/hello-world/)
