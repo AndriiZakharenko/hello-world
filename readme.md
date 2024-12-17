@@ -1,16 +1,16 @@
 # Hello world
 
-## Stack
+### Stack
 
 - HTML (BEM)
 
-## Tools
+### Tools
 
 - ESlint
 - Prettier
 - Jest
 - Parcel
 
-## Demo Links
+### Demo Links
 
 - [Demo](https://AndriiZakharenko.github.io/hello-world/)
